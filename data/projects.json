@@ -1,0 +1,251 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "TechFlow Logo",
+      "category": "Logos",
+      "description": "Modern tech startup logo with geometric shapes",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Tech-DVjMzZdsIOGrxVdYOck3TcRuEPV6zo.png",
+      "challenge": "Create a distinctive logo for a fintech startup that conveys innovation, trust, and forward-thinking technology.",
+      "solution": "Designed a geometric logo using flowing curves and angular shapes to represent financial movement and technological advancement. The modern typeface complements the abstract mark.",
+      "designProcess": "Started with research into fintech industry trends and competitor analysis. Sketched 15+ concepts exploring different directions. Selected 3 top variations for client presentation. Refined the winning concept through 4 rounds of revisions focusing on scalability and versatility.",
+      "inspiration": "Inspired by nature's flow patterns and modern architectural design. The curves represent financial growth while the clean geometry ensures excellent scalability.",
+      "tools": ["Adobe Illustrator", "Figma"],
+      "deliverables": ["Logo mark", "Logo with wordmark", "Color variations", "Usage guidelines"],
+      "timeline": "3 weeks"
+    },
+    {
+      "id": 2,
+      "title": "VertexTech - Digital Innovation Flyer",
+      "category": "Flyers",
+      "description": "High-impact promotional flyer for tech electronics retailer",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Tech%20Flyer-3EObJw4jKDY0mnQgfAruMjdZTD7PWz.png",
+      "challenge": "Design a visually striking flyer for a technology retailer that showcases multiple products (phones, laptops, accessories, smartwatches) while driving immediate customer action and brand awareness.",
+      "solution": "Created a modern, tech-forward design with neon gradient backgrounds and dynamic product arrangements. Integrated QR code, contact information, and clear call-to-action. Used vibrant accent colors to draw attention while maintaining professional aesthetics. Strategic typography hierarchy guides viewers through key information.",
+      "designProcess": "Analyzed competitor designs and tech industry trends. Developed 4 design concepts with different layouts and color schemes. Tested typography hierarchy for readability at various distances. Optimized for both digital display and print production. Incorporated client's branding guidelines and product positioning.",
+      "inspiration": "Contemporary tech retail design, neon aesthetics, and modern product photography. Aimed for a balance between cutting-edge innovation and professional credibility.",
+      "tools": ["Adobe Photoshop", "Adobe InDesign", "Figma"],
+      "deliverables": ["Print flyer (A4)", "Digital flyer (web)", "Social media assets", "Print-ready PDF with bleeds"],
+      "timeline": "2.5 weeks"
+    },
+    {
+      "id": 3,
+      "title": "Solidus Cement - Brand Flyer",
+      "category": "Flyers",
+      "description": "Professional marketing flyer for cement manufacturing company",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Cement%202-VA3EyaOUVA2rRvU1sVHKupmbiq3HUW.png",
+      "challenge": "Design a professional flyer for a B2B cement company that communicates innovation, sustainability, and reliability to construction industry professionals.",
+      "solution": "Created a sophisticated layout combining modern typography with high-quality imagery. Used split-screen design separating company messaging from impressive cityscape photography. Incorporated certification badges and key differentiators. Professional color scheme (navy, white, orange) conveys trust and construction industry relevance.",
+      "designProcess": "Researched cement industry marketing standards and B2B design best practices. Conducted competitive analysis of similar companies. Developed layout with emphasis on visual hierarchy and information architecture. Selected imagery that demonstrates scale and capability. Integrated certifications prominently to build credibility.",
+      "inspiration": "Professional architecture and construction industry standards. Modern corporate design with emphasis on sustainability and technological advancement.",
+      "tools": ["Adobe InDesign", "Photoshop"],
+      "deliverables": ["Print flyer (A4)", "Digital version", "Email template", "Press release layout"],
+      "timeline": "3 weeks"
+    },
+    {
+      "id": 4,
+      "title": "Aurelio - Furniture Brand Identity",
+      "category": "Brand Identity",
+      "description": "Complete brand identity for luxury furniture brand",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Aurelio-YiPsYLmh6qpWQnqhHKaqpV1xV7MC0g.png",
+      "challenge": "Develop a premium brand identity for a luxury furniture company that reflects sophistication, craftsmanship, and timeless design across all materials and applications.",
+      "solution": "Created a minimalist logo combining geometric abstraction with refined simplicity. Developed brand identity showing logo variations across different material applications (gold, leather, fabric, wood). Established sophisticated color palette and typography system reflecting luxury positioning.",
+      "designProcess": "Explored furniture design aesthetics and luxury brand standards. Developed 8+ logo concepts focusing on geometric abstraction and craftsmanship. Selected minimalist direction for timelessness. Created mockups showing brand application across premium materials. Tested logo variations at different scales and backgrounds.",
+      "inspiration": "High-end furniture design, Bauhaus principles, and premium material textures. Aimed for understated elegance that appeals to discerning customers.",
+      "tools": ["Adobe Illustrator", "Figma", "Adobe Photoshop"],
+      "deliverables": [
+        "Logo system",
+        "Material variations",
+        "Brand guidelines",
+        "Packaging concepts",
+        "Marketing templates"
+      ],
+      "timeline": "4 weeks"
+    },
+    {
+      "id": 5,
+      "title": "BestChoice Graphics - Logo Variations",
+      "category": "Logos",
+      "description": "Complete logo system with multiple variations and applications",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/All-L03jsuglqvgYpkJpHnOidxM6blFqU6.png",
+      "challenge": "Create a versatile logo system that works across various backgrounds, applications, and contexts while maintaining brand recognition and professional appeal.",
+      "solution": "Designed a modern logo combining geometric letterform with elegant typography. Developed multiple variations including full wordmark, logo only, monochrome version, and colored background versions. Each variation maintains design consistency while adapting to specific use cases.",
+      "designProcess": "Started with comprehensive brand strategy sessions. Sketched 20+ variations exploring different geometric approaches. Selected primary concept and developed comprehensive variation system. Tested across real-world applications (signage, web, print, social). Refined based on versatility and scalability requirements.",
+      "inspiration": "Modern sans-serif typography combined with geometric abstraction. Professional services industry standards with contemporary design sensibility.",
+      "tools": ["Adobe Illustrator", "Figma"],
+      "deliverables": [
+        "Primary logo",
+        "Logo variations",
+        "Monochrome versions",
+        "Background variations",
+        "Usage guidelines (50+ pages)"
+      ],
+      "timeline": "3.5 weeks"
+    },
+    {
+      "id": 6,
+      "title": "GraceCare Medical Center - Healthcare Flyer",
+      "category": "Flyers",
+      "description": "Professional medical center marketing flyer",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Clinic%20flyer-AZfBhE1euzLmQ0iVXWhGqjjyqvKXVc.png",
+      "challenge": "Design a healthcare flyer that communicates trust, professionalism, and comprehensive medical services while encouraging patient appointments and clinic visits.",
+      "solution": "Created a warm, professional design featuring healthcare professional imagery alongside comprehensive service descriptions. Used calming color palette (blue, teal, cream) that communicates trust and care. Integrated clear call-to-action buttons and contact information. Organized services in scannable format with supporting icons.",
+      "designProcess": "Researched healthcare marketing best practices and patient trust factors. Selected professional medical imagery that reflects diversity and competency. Developed layout prioritizing key information and call-to-action. Tested legibility of medical terminology. Optimized for print distribution in clinics and digital sharing.",
+      "inspiration": "Healthcare industry design standards, patient-focused communication, and modern medical facility aesthetics.",
+      "tools": ["Adobe InDesign", "Photoshop"],
+      "deliverables": ["Print flyer (A4)", "Digital flyer", "Email newsletter template", "Social media graphics"],
+      "timeline": "2 weeks"
+    },
+    {
+      "id": 7,
+      "title": "Harmony Health - Healthcare Logo",
+      "category": "Logos",
+      "description": "Modern healthcare brand logo with wellness symbolism",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Harmony%20health%20Logo-7UlEKCdZm1fxmKHSdH4h8jr9jTOQFj.png",
+      "challenge": "Design a healthcare logo that communicates wellness, holistic care, and modern medical practice while building trust and recognition in the healthcare market.",
+      "solution": "Created a sophisticated medical symbol combining traditional healthcare imagery (caduceus) with natural wellness elements (leaves). Used calming teal and green color palette suggesting health, growth, and vitality. Balanced professional medical aesthetics with approachable wellness positioning.",
+      "designProcess": "Researched healthcare logo trends and medical symbolism. Explored combinations of medical and natural wellness imagery. Developed 12+ concepts balancing tradition with modern interpretation. Selected concept combining caduceus with leaf elements. Refined through multiple iterations testing color variations and proportions.",
+      "inspiration": "Medical industry standards, holistic wellness design, and botanical symbolism representing natural health.",
+      "tools": ["Adobe Illustrator", "Figma"],
+      "deliverables": [
+        "Logo mark",
+        "Logo with wordmark",
+        "Color variations",
+        "Monochrome version",
+        "Brand application guidelines"
+      ],
+      "timeline": "3 weeks"
+    },
+    {
+      "id": 8,
+      "title": "Evergen Academy - Educational Flyer",
+      "category": "Flyers",
+      "description": "Vibrant educational institution marketing flyer",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Evergen%20Flyer-vAiaF4m0hFyJs14cSBPmBqwfp2tJ4n.png",
+      "challenge": "Design an engaging educational flyer that appeals to parents and students while communicating innovative learning methodologies and institutional strengths.",
+      "solution": "Created a dynamic design using vibrant gradient backgrounds (teal, green, yellow, orange) conveying energy and creativity. Integrated engaging student and educator imagery showing active learning. Structured information around core educational principles with supporting icons. Used modern typography and layered design elements for visual interest.",
+      "designProcess": "Analyzed educational marketing trends and parent decision-making factors. Developed 5 design concepts with different color schemes and layouts. Researched imagery showing diverse, engaged learners. Created modular design allowing for multiple variations. Optimized for both print and digital distribution channels.",
+      "inspiration": "Contemporary educational branding, modern learning environments, and tech-forward educational institutions.",
+      "tools": ["Adobe Photoshop", "Adobe InDesign", "Figma"],
+      "deliverables": ["Print flyer (A4)", "Digital flyer", "Social media assets", "Website banner", "Email templates"],
+      "timeline": "3 weeks"
+    },
+    {
+      "id": 9,
+      "title": "Harmony Health - Family Wellness Flyer",
+      "category": "Flyers",
+      "description": "Healthcare provider promotional flyer emphasizing family care",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Clinic%20flyer%202-wLYFmviouZmHUgZXx6plA5V6fWVO0l.png",
+      "challenge": "Create a healthcare promotional flyer targeting families that communicates personalized care, convenience, and special offers while encouraging immediate appointments.",
+      "solution": "Designed a warm, family-focused layout featuring multi-generational healthcare imagery. Prominently displayed special offer with bold messaging. Organized key services with supporting icons. Used friendly color palette (light blue, cream) communicating approachability. Integrated insurance provider logos building credibility and accessibility.",
+      "designProcess": "Researched family healthcare decision-making and marketing psychology. Selected inclusive family imagery reflecting diversity. Developed layout emphasizing special promotion while maintaining information hierarchy. Created scannable service descriptions. Optimized contact information prominence and booking mechanism.",
+      "inspiration": "Family-oriented healthcare marketing, welcoming medical aesthetics, and patient-centric communication design.",
+      "tools": ["Adobe InDesign", "Photoshop"],
+      "deliverables": ["Print flyer (A4)", "Digital version", "Email marketing asset", "Landing page design"],
+      "timeline": "2.5 weeks"
+    },
+    {
+      "id": 10,
+      "title": "Cementex - Construction Materials Flyer",
+      "category": "Flyers",
+      "description": "B2B marketing flyer for cement and construction materials supplier",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Cemet-5cyYvChBVJSw4l3xv01UegTlLoR4DY.png",
+      "challenge": "Design a professional B2B flyer for a construction materials company that communicates quality, capabilities, and competitive advantages to contractors and construction professionals.",
+      "solution": "Created a bold, professional design with strong visual hierarchy. Featured high-quality industrial photography (factory operations, cement truck, construction application). Used striking orange and blue color scheme reflecting energy and industrial reliability. Organized services with clear descriptions. Positioned call-to-action prominently for business inquiries.",
+      "designProcess": "Researched B2B construction marketing standards and industry communication preferences. Selected impactful industrial imagery demonstrating scale and capability. Developed layout with emphasis on product quality and service range. Created multiple versions for different distributor channels. Optimized for trade show distribution and direct mail.",
+      "inspiration": "Industrial B2B marketing, construction industry standards, and professional corporate design.",
+      "tools": ["Adobe InDesign", "Photoshop"],
+      "deliverables": ["Print flyer (A4)", "Digital flyer", "Trade show version", "Email campaign assets"],
+      "timeline": "3 weeks"
+    },
+    {
+      "id": 11,
+      "title": "OMNI-LINGUA - Reactive Typographic Identity System",
+      "category": "Typography",
+      "description": "A high-contrast, type-only brand identity system designed for OMNI-LINGUA's real-time Augmented Reality (AR) translation application, prioritizing legibility and dynamic state communication.",
+      "image": "/typo.png",
+      "challenge": "Develop an identity relying 100% on typography (no icons) that communicates speed, connectivity, and data processing. The system had to overcome critical technical constraints, including: 1) AR variable font expansion (Variable Axis Blind Spot), 2) Global glyph support (Localization Trap), and 3) maintaining legibility against bright real-world backgrounds (Haloing Effect).",
+      "solution": "Created a 'Swiss Cyberpunk' system using a strict two-color palette (Black/Hyper-Lime). The identity is defined by behavior, not static rules. The solution included: Logotype built with negative tracking (ligature compression) for velocity; a high-contrast variable font pairing (Space Grotesk & JetBrains Mono for wide glyph support); and a 'Glitch System' using CSS animations on Variable Font Axes (wdth and wght) to signal AI listening and processing states. Legibility was enforced with an 'AR Shield' hard text-shadow.",
+      "designProcess": "1. Strategic Analysis (identifying Variable Axis, Localization, and Haloing constraints). 2. Font Curation (selecting variable fonts with extensive language support). 3. Code Prototyping (building the identity directly in HTML/CSS to test responsiveness and Glitch behavior). 4. Dynamic Ruleset Definition (mapping AI states to typographic properties like weight and width). 5. Contrast Engineering (developing the 'AR Shield' CSS utility).",
+      "inspiration": "Mid-century Swiss design principles (grid, precision, legibility) fused with computational and cyberpunk data visualization aesthetics.",
+      "tools": ["HTML/CSS/JS", "Tailwind CSS", "Variable Fonts (Space Grotesk, JetBrains Mono)", "Netlify"],
+      "deliverables": ["Interactive Brand Guidelines Prototype", "Core Logotype", "Variable Typographic Behavior Ruleset", "Color Palette & Contrast Protocol"],
+      "timeline": "2 weeks",
+      "url": "http://merry-druid-70d159.netlify.app"
+    },
+    {
+      "id": 12,
+      "title": "Voltava Tech - Product Marketing Campaign",
+      "category": "Flyers",
+      "description": "Comprehensive multi-platform social media and marketing campaign for tech accessories brand",
+      "image": "/All.png",
+      "challenge": "Design a cohesive multi-platform marketing campaign for Voltava Tech that showcases diverse product lines (power banks, cables, earbuds, smartwatches) across social media, print, and digital channels while maintaining consistent neon branding.",
+      "solution": "Created a unified campaign using signature neon lime green and black color scheme with dynamic product photography. Developed multiple variations (6+ designs) showcasing different product categories and messaging. Each design maintains visual consistency through geometric neon effects, bold typography, and dark backgrounds. Integrated QR codes and social handles for cross-platform engagement.",
+      "designProcess": "Analyzed Voltava's product ecosystem and target audience. Developed core visual language using neon geometric elements and dynamic lighting effects. Created variations for different products and messaging angles. Optimized each design for specific platform dimensions and engagement strategies. Maintained consistency across all 6+ variations while allowing individual design personality.",
+      "inspiration": "Cyberpunk aesthetics, tech product marketing trends, neon graphic design, and dynamic product showcase photography.",
+      "tools": ["Adobe Photoshop", "Adobe InDesign", "Figma"],
+      "deliverables": [
+        "Social media posts (Instagram, Facebook, TikTok)",
+        "Product showcase variations (6+)",
+        "Print-ready flyers",
+        "Email campaign graphics",
+        "Web banner assets",
+        "QR code integration assets"
+      ],
+      "timeline": "3.5 weeks",
+      "variations": [
+        {
+          "title": "Time Reimagined - Smartwatch Campaign",
+          "description": "Premium smartwatch product launch with neon geometric design elements"
+        },
+        {
+          "title": "Seamless. Durable. - Cable Campaign",
+          "description": "Charging cable durability messaging with dynamic neon effects"
+        },
+        {
+          "title": "Immense Audio - Earbuds Campaign",
+          "description": "Premium audio product showcase with waveform design elements"
+        },
+        {
+          "title": "Uninterrupted Power - Power Bank Campaign",
+          "description": "Battery and charging solution messaging with bold geometric shapes"
+        },
+        {
+          "title": "Multi-Product Grid - Campaign Overview",
+          "description": "Six-panel variation showcasing complete product ecosystem"
+        },
+        {
+          "title": "Promotional Campaign - 20% Off",
+          "description": "Limited-time discount promotion across multiple product categories"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Tradeline Global - Comprehensive Brand Visual Guide",
+      "category": "Brand Identity",
+      "description": "Complete B2B logistics and supply chain brand identity system with visual guidelines",
+      "image": "/Brand Visual Guide 2.png",
+      "challenge": "Develop a professional, trustworthy brand identity for a global logistics and supply chain company that communicates reliability, connectivity, and seamless international operations across all touchpoints.",
+      "solution": "Created a sophisticated brand identity featuring an interlocking geometric logo symbolizing connectivity and global networks. Developed comprehensive visual system including navy and orange color palette, custom iconography set (6+ logistics-specific icons), and full application suite. Designed brand materials spanning business cards, letterhead, packaging, invoices, and digital presentations maintaining consistent visual language.",
+      "designProcess": "Researched B2B logistics industry standards and competitive positioning. Developed 8+ logo concepts exploring connectivity and supply chain symbolism. Selected interlocking geometric approach for versatility and recognition. Created comprehensive iconography system for service communication. Designed full brand application suite including stationery, packaging mockups, and marketing collateral. Developed detailed visual guidelines ensuring consistent brand implementation.",
+      "inspiration": "Global trade and logistics industry standards, modern B2B corporate design, geometric connectivity concepts, and professional international business aesthetics.",
+      "tools": ["Adobe Illustrator", "Adobe InDesign", "Figma", "Photoshop"],
+      "deliverables": [
+        "Logo mark and wordmark",
+        "Icon system (6+ logistics icons)",
+        "Color palette and specifications",
+        "Business card design",
+        "Letterhead and stationery",
+        "Invoice template",
+        "Branded packaging mockup",
+        "Presentation slide templates",
+        "Email signature template",
+        "Brand guidelines document (40+ pages)",
+        "Marketing collateral templates"
+      ],
+      "timeline": "4.5 weeks"
+    }
+  ]
+}
+
