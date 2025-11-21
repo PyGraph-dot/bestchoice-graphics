@@ -2,6 +2,7 @@ import type React from "react"
 import type { Metadata } from "next"
 import { Poppins, Inter } from "next/font/google"
 import { Analytics } from "@vercel/analytics/next"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import "./globals.css"
 import { Preloader } from "@/components/preloader"
 import { ScrollToTop } from "@/components/scroll-to-top"
@@ -53,6 +54,7 @@ export default function RootLayout({
           {children}
           <ScrollToTop />
           <Analytics />
+          <SpeedInsights />
         </ThemeProviderWrapper>
       </body>
     </html>
