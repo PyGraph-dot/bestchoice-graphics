@@ -121,7 +121,7 @@ export function PortfolioGallery({ projects }: PortfolioGalleryProps) {
                       target="_blank"
                       rel="noopener noreferrer"
                       onClick={(e) => e.stopPropagation()}
-                      className="absolute top-2 right-2 z-10 bg-black/70 text-white px-2 py-1 rounded text-xs inline-block no-underline opacity-0 group-hover:opacity-100 pointer-events-none group-hover:pointer-events-auto transition-opacity duration-200"
+                      className="absolute top-2 right-2 z-10 bg-black/70 text-white px-2 py-1 rounded text-xs inline-block no-underline opacity-100 md:opacity-0 md:group-hover:opacity-100 pointer-events-auto md:pointer-events-none md:group-hover:pointer-events-auto transition-opacity duration-200"
                       aria-label={`Open ${project.title} in new tab`}
                     >
                       Open
@@ -132,7 +132,7 @@ export function PortfolioGallery({ projects }: PortfolioGalleryProps) {
                       target="_blank"
                       rel="noopener noreferrer"
                       onClick={(e) => e.stopPropagation()}
-                      className="absolute top-2 right-2 z-10 bg-black/70 text-white px-2 py-1 rounded text-xs inline-block no-underline opacity-0 group-hover:opacity-100 pointer-events-none group-hover:pointer-events-auto transition-opacity duration-200"
+                      className="absolute top-2 right-2 z-10 bg-black/70 text-white px-2 py-1 rounded text-xs inline-block no-underline opacity-100 md:opacity-0 md:group-hover:opacity-100 pointer-events-auto md:pointer-events-none md:group-hover:pointer-events-auto transition-opacity duration-200"
                       aria-label={`Open image for ${project.title} in new tab`}
                     >
                       Open
